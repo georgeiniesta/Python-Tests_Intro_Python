@@ -1,0 +1,2 @@
+﻿'alfa' == 'alfa'
+'alfa' != 'Alfa'
